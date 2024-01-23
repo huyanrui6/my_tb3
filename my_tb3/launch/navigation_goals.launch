@@ -1,0 +1,3 @@
+<launch>
+ <node name="navigation_goals" pkg="my_tb3" type="navigation_goals"/>
+</launch>
